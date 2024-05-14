@@ -2,6 +2,7 @@
 In this Challenge, I used various techniques to train and evaluate a model based on loan risk. I  used a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 
 
+Credit Risk Analysis Report
 The logistic regression model seems to perform quite well in predicting both the "0" (healthy loan) and "1" (high-risk loan) labels based on the provided metrics (precision, recall, and F1-score).
 
 For the "0" label (healthy loan):
